@@ -24,6 +24,11 @@ These are some links to sites that I would like to emulate:
 
 - [I'm an inline-style link](https://www.google.com)
 
+Here are some images that I would like to emulate in my project:
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
