@@ -20,6 +20,10 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
+These are some links to sites that I would like to emulate:
+
+- I'm an inline-style link](https://www.google.com)
+
 ## Wireframes
 
 Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
