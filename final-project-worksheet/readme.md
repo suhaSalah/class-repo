@@ -22,7 +22,7 @@ Use this section to describe your final project and perhaps any links to relevan
 
 These are some links to sites that I would like to emulate:
 
-- I'm an inline-style link](https://www.google.com)
+- [I'm an inline-style link](https://www.google.com)
 
 ## Wireframes
 
