@@ -28,6 +28,9 @@ Here are some images that I would like to emulate in my project:
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
+## Insipiration Sites
+
+Add links to a few inspiring sites that include design's/functionality you might incoproate into your project.
 
 ## Wireframes
 
