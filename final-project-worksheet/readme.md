@@ -32,9 +32,9 @@ Here are some images that I would like to emulate in my project:
 
 Add links to a few inspiring sites that include design's/functionality you might incoproate into your project.
 
-| Site Name | URL | Liked Features |
+| Site Name |  Liked Features |
 | --- | :---: |  :---: |  
-| FoodSense | ![alt text](http://foodsense.is/) | layout | 
+| ![FoodSense!](http://foodsense.is/)  | layout | 
 
 
 ## Wireframes
