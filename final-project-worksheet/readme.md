@@ -34,7 +34,7 @@ Add links to a few inspiring sites that include design's/functionality you might
 
 | Site Name |  Liked Features |
 | --- | :---: |  :---: |  
-| ![FoodSense!](http://foodsense.is/)  | layout | 
+| [FoodSense!](http://foodsense.is/)  | layout | 
 
 
 ## Wireframes
