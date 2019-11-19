@@ -19,6 +19,8 @@ You are **responsible** for scheduling time with your squad to seek approval for
 ## Project Description
 My final project is a very basic hangman game. It has only one winning word hard-coded in. The user has 6 chances to guess the correct word, or else they lose. The crux of the javascript is basically one big "if" statement with several "else if" statements. Each "if" or "else if" statement essentially checks what the value of the div that is clicked. There are 26 divs, one for each letter of the alphabet, and depending on what letter it is, a certain action will take place. If it is one of the correct letters, then that letter(s) will appear in the winning word. If it is an incorrect guess, the "if/else if" statements check a counter to see how many wrong guesses have happened already and adds a body part accordingly. The head adds on first, then the body, then the right-arm, then the left-arm, then the right-leg, and finally the left-leg. As each body part is added, the counter goes down one. Once that counter reaches 0, the game is over.
 
+[CodePen](https://codepen.io/jkeohan/pen/GyKXoO)
+
 ## Priority Matrix
 
 http://res.cloudinary.com/damark726/image/upload/v1513020174/tpm_th4sqg.jpg
