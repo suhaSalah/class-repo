@@ -20,22 +20,6 @@ You are **responsible** for scheduling time with your squad to seek approval for
 
 Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
 
-These are some links to sites that I would like to emulate:
-
-- [I'm an inline-style link](https://www.google.com)
-
-Here are some images that I would like to emulate in my project:
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-## Insipiration Sites
-
-Add links to a few inspiring sites that include design's/functionality you might incoproate into your project.
-
-| Site Name |  Liked Features |
-| --- | :---: |  :---: |  
-| [FoodSense!](http://foodsense.is/)  | layout | 
-
 
 ## Wireframes
 
