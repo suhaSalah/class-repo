@@ -69,6 +69,8 @@ Here are some commonly desired layout patterns:
 We will be building cards that just have a single letter on them. As we build we will learn about some properties of Flexbox and their behavoirs.
 ![Final build](https://i.imgur.com/TFc73Sf.png)
 
+[CODEPEN](https://codepen.io/jkeohan/pen/JjYjeoY?editors=1100)
+
 
 
 ### Getting Started
