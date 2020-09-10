@@ -21,7 +21,7 @@ Beginner's Chess, is a variation on chess where the only pieces on the board are
 
 ## Wireframes
 
-<img src="https://i.imgur.com/aHpq7h9.png" width=500/>
+<img src="https://i.imgur.com/aHpq7h9.png" width=800/>
 
 
 ## Priority Matrix
