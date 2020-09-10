@@ -21,13 +21,16 @@ Beginner's Chess, is a variation on chess where the only pieces on the board are
 
 ## Wireframes
 
-![MVP](https://res.cloudinary.com/andytham/image/upload/v1512673082/PROJECT1/wireframe_mvp.jpg)
+<img src="https://res.cloudinary.com/andytham/image/upload/v1512673082/PROJECT1/wireframe_mvp.jpg" width=500/>
 
-![PostMVP](https://res.cloudinary.com/andytham/image/upload/v1512673082/PROJECT1/wireframe_post_mvp.jpg)
+
+<img src="https://res.cloudinary.com/andytham/image/upload/v1512673082/PROJECT1/wireframe_post_mvp.jpg" width=500/>
 
 ## Priority Matrix
 
-![priority matrix](https://res.cloudinary.com/andytham/image/upload/v1512673082/PROJECT1/priority_matrix.jpg)
+
+<img src="https://res.cloudinary.com/andytham/image/upload/v1512673082/PROJECT1/priority_matrix.jpg" width=500/>
+
 
 
 ## MVP
